@@ -13,3 +13,4 @@ This repo is configured with GitLab Pipelines and will serve the contents using 
 For example, you can grab the up to date lm cert file at this URL:
 
 [http://leet.page.lmms.lmco.com/windows-dev-config/lm_combined_certs.cer](http://leet.page.lmms.lmco.com/windows-dev-config/lm_combined_certs.cer)"#IS_550_FINAL_PROJECT" 
+"#IS_550_FINAL_PROJECT" 
