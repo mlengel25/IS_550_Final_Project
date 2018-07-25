@@ -1,0 +1,13 @@
+There are 5 files attached in this repository.
+
+1. demographics.csv - this is data on each patient such as gender, education level, etc. This was joined to the EEG data in my script.
+
+2. EEG Data.csv - this was the data from the 9 different EEG signals over three different trials each for 81 total patients.
+              Since the total file was > 25 mb I could not upload it to git. As a result- I added an index and separated these files.
+              ERPdata1,ERPdata2,ERPdata3,ERPdata4,ERPdata5 can be union'd together, and the index dropped to form the original dataset.
+              
+3. EEG Project.ipynb - this is the jupyter notebook I used to create my LSTM model. 
+
+4. EEG_model2.h5 - this is the model I used to get my final results after parameter tuning. 
+
+5. Final Project.docx - this is a word document that explains my problem, LSTM models, and my results.
